@@ -1,0 +1,9 @@
+# TODO: use docker
+scikit-learn
+scikit-image
+numpy == 1.23.5
+elasticdeform
+opencv-python
+tensorflow
+matplotlib
+tqdm
